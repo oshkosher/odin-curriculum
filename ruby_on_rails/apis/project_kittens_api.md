@@ -1,8 +1,8 @@
-### Warmup: Exploring the Flickr API
+### Introduction
 
 In this warmup, you'll get a chance to poke around with an existing API from Flickr. You'll need to read the documentation to understand which calls to make but they have a nice API explorer tool which submits API calls on your behalf.
 
-### Assignment 1
+### Assignment
 
 <div class="lesson-content__panel" markdown="1">
 
@@ -54,7 +54,7 @@ In this warmup, you'll get a chance to poke around with an existing API from Fli
 
 This is a fast and straightforward project where you'll set up a Rails app to be a data-producing API... which is just a fancy way of saying that all your controller methods will render data instead of HTML.  Consider this a drill in quickly building a pure vanilla RESTful resource. We won't be working with an external API until the next project.
 
-### Assignment 2
+### Assignment part 2
 
 <div class="lesson-content__panel" markdown="1">
 
